@@ -50,4 +50,4 @@ Potenciální vylepšení:
 
 ## 5. ???
 
--   skvělý vlastní nápad na kreativní animaci
+-   vlastní skvělý nápad na kreativní animaci
