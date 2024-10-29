@@ -17,7 +17,7 @@ Potenciální vylepšení:
 
 -   zlepšete animaci, ať nevypadá tak kostrbatě jako na gifu níže
 
-_Pro připevnění emoji rukou se můžou hodit pseudoelementy jako `::after`_
+_Pro připevnění emoji rukou se mohou hodit pseudoelementy jako `::after`_
 
 ![ juggling](https://github.com/JS-Trebesin/ukoly-animation/assets/84028625/0423ffaf-ea50-42a2-821a-659566d0fc32)
 
